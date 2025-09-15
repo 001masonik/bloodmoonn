@@ -709,9 +709,7 @@ footer p {
         justify-content: space-between;
     }
 
-    .navbar.fixed {
-        display: none;
-    }
+
 
     .burger-icon {
         display: block;
@@ -880,9 +878,7 @@ footer p {
     }
 }
 
-   .navbar.fixed {
-    display: none;
-   }
+
 
 
 
@@ -895,9 +891,7 @@ footer p {
         margin-left: 0;
     }
 
-       .navbar.fixed {
-        display: none;
-    }
+
 
     .footer-content{
         margin-left: -50px;
@@ -925,9 +919,7 @@ footer p {
     margin: 10px;
 }
 
-   .navbar.fixed {
-        display: none;
-    }
+  
 
 .moon-image {
         width: 700px;
