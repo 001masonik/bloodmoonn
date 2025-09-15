@@ -710,7 +710,7 @@ footer p {
     }
 
     .navbar.fixed {
-        display: flex;
+        display: none;
     }
 
     .burger-icon {
@@ -881,9 +881,9 @@ footer p {
 }
 
    .navbar.fixed {
-        display: flex;
-    }
-    
+    display: none;
+   }
+
 
 
 @media (max-width: 550px){
@@ -896,7 +896,7 @@ footer p {
     }
 
        .navbar.fixed {
-        display: block;
+        display: none;
     }
 
     .footer-content{
@@ -926,7 +926,7 @@ footer p {
 }
 
    .navbar.fixed {
-        display: flex;
+        display: none;
     }
 
 .moon-image {
