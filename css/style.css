@@ -251,7 +251,7 @@ body {
 
 .navbar.fixed {
     
-   position: fixed;
+    position: fixed;
     top: 0;
     left: 0;
     z-index: 500;
@@ -710,7 +710,7 @@ footer p {
     }
 
     .navbar.fixed {
-        display: block;
+        display: flex;
     }
 
     .burger-icon {
@@ -881,7 +881,7 @@ footer p {
 }
 
    .navbar.fixed {
-        display: block;
+        display: flex;
     }
     
 
@@ -926,7 +926,7 @@ footer p {
 }
 
    .navbar.fixed {
-        display: block;
+        display: flex;
     }
 
 .moon-image {
